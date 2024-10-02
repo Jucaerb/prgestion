@@ -9,6 +9,7 @@ En este repositorio encontrarás los siguientes archivos:
 - **Notebook de conexión a BD con SQL**: Un notebook que realiza una transformación del dataset a BD y en el cual se realiza un CRUD sobre la misma para actualizar el tablero de Streamlite.
 - **Archivos de entorno para Streamlite**: Un entorno virtual de Python en el cual están instaladas las librerías necesarias para el despliegue.
 - **Dataset**: Un archivo CSV con los datos preprocesados utilizados en el análisis.
+- **Capturas CRUD SQL**: Una carpeta con las capturas haciendo un CRUD en la base de datos con workbench.
 - **README.md**: Este archivo con la descripción del proyecto.
 
   
