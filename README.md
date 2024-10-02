@@ -5,12 +5,12 @@ El riesgo de enfermedades cardiovasculares (CVD) es una de las principales causa
 
 ## Contenido del Repositorio
 En este repositorio encontrarás los siguientes archivos:
-- **Notebook de análisis y predicción**: Un notebook que realiza la limpieza de datos, el análisis exploratorio y la creación de un modelo predictivo para estimar el riesgo de CVD.
+- **Notebook de análisis y predicción**: Un notebook que realiza la limpieza de datos, el análisis exploratorio y la creación de un modelo predictivo para estimar el riesgo de CVD. Además visualizaciones clave generadas durante el análisis de los datos.
 - **Notebook de conexión a BD con SQL**: Un notebook que realiza una transformación del dataset a BD y en el cual se realiza un CRUD sobre la misma para actualizar el tablero de Streamlite.
 - **Archivos de entorno para Streamlite**: Un entorno virtual de Python en el cual están instaladas las librerías necesarias para el despliegue.
 - **Dataset**: Un archivo CSV con los datos preprocesados utilizados en el análisis.
 - **README.md**: Este archivo con la descripción del proyecto.
-- **Gráficos y visualizaciones**: Visualizaciones clave generadas durante el análisis de los datos.
+
   
 ## Descripción de los Datos
 Se utilizaron un total de **256341** registros en el dataset, que corresponden a información sobre la salud, estilo de vida y condiciones médicas de individuos. Cada registro contiene las siguientes **16 características**:
